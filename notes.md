@@ -23,4 +23,4 @@ Lie Groups, which is a mathematical topic of interest.
 
 * In spring 2018, I prepared a talk for a conference course with Professor
 Neitzke about the generalized Laplacian on a Riemannian Manifold.
-    [Laplacian Notes](../files/laplacian.pdf)
+    - [Laplacian Notes](../files/laplacian.pdf)
